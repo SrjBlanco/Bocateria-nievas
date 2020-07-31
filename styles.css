@@ -35,12 +35,16 @@ body {
 .main__title {
   color: black;
   font-size: 25px;
+  display: flex;
+  justify-content: center;
 }
 
 .categories__title {
-  color: black;
+  background-color: black;
+  color: white;
   font-size: 16px;
-  padding-left: 30px;
+  display: flex;
+  justify-content: center;
   width: 100%;
 }
 
